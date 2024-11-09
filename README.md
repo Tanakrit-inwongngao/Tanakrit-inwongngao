@@ -1,11 +1,16 @@
-<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/T8c3M3yWJcsKY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-nope-gross-T8c3M3yWJcsKY">via GIPHY</a></p>
-
 <h1 align="center">Hi👋 my name is Tanakrit inwongngao</h1>
 <h3 align="center">CS 66</h3>
 
 - 💬 สอบถามเกี่ยวกับ **กำลังศึกษาอยู่ที่มหาวิทยาลัยพะเยา**
 
 - 📫 ติดต่อฉันได้ที่ **pooh08954@gmail.com**
+- <div style="text-align: center;">
+    <a href="https://www.github.com/gangkhathi" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/github/followers/gangkhathi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" style="width: 105px; height: auto;" />
+    </a>
+    
+ <img src="https://komarev.com/ghpvc/?username=gangkhathi&style=flat-square&color=blue" alt="account cpunter"/>
+</div>
 
 <h3 align="left">ติดต่อฉันได้ที่:</h3>
 <p align="left">
