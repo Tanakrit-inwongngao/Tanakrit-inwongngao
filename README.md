@@ -1,3 +1,5 @@
+<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/T8c3M3yWJcsKY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-nope-gross-T8c3M3yWJcsKY">via GIPHY</a></p>
+
 <h1 align="center">Hi👋 my name is Tanakrit inwongngao</h1>
 <h3 align="center">CS 66</h3>
 
