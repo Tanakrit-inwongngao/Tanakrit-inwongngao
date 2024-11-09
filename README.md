@@ -1,9 +1,11 @@
 <h1 align="center">Hi👋 my name is Tanakrit inwongngao</h1>
-<h3 align="center">CS 66</h3>
+<h3 align="center">CS 66 / UP</h3>
 
-- 💬 สอบถามเกี่ยวกับ **กำลังศึกษาอยู่ที่มหาวิทยาลัยพะเยา**
+- 💬 about me **Currently studying at the University of Phayao**
 
-- 📫 ติดต่อฉันได้ที่ **pooh08954@gmail.com**
+- 📫 Contact me at **pooh08954@gmail.com**
+  
+- 💻 **I'm learning more programming languages to enhance my skills**
     <a href="https://www.github.com/gangkhathi" target="_blank" rel="noreferrer"> 
  <img src="https://komarev.com/ghpvc/?username=gangkhathi&style=flat-square&color=blue" alt="account cpunter"/>
 </div>
