@@ -5,10 +5,7 @@
 
 - 📫 ติดต่อฉันได้ที่ **pooh08954@gmail.com**
 - <div style="text-align: center;">
-    <a href="https://www.github.com/gangkhathi" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/github/followers/gangkhathi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" style="width: 105px; height: auto;" />
-    </a>
-    
+    <a href="https://www.github.com/gangkhathi" target="_blank" rel="noreferrer"> 
  <img src="https://komarev.com/ghpvc/?username=gangkhathi&style=flat-square&color=blue" alt="account cpunter"/>
 </div>
 
